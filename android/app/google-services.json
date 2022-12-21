@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56859967382",
+    "project_id": "kullaniciislemleri-95491",
+    "storage_bucket": "kullaniciislemleri-95491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56859967382:android:cc457e494d0212de36e7b7",
+        "android_client_info": {
+          "package_name": "com.example.user_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56859967382-b1e3ge5cged9v12mh6jriol4gssm63oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhd3yEwbRWUKjMz-7elsg8BhZ2AlOwrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56859967382-b1e3ge5cged9v12mh6jriol4gssm63oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
